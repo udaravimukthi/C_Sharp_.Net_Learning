@@ -1,0 +1,16 @@
+C:\Users\UDARA VIMUKTHI\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\UDARA VIMUKTHI\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\UDARA VIMUKTHI\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\UDARA VIMUKTHI\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\UDARA VIMUKTHI\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\UDARA VIMUKTHI\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\UDARA VIMUKTHI\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\UDARA VIMUKTHI\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csprojAssemblyReference.cache
+C:\Users\UDARA VIMUKTHI\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UDARA VIMUKTHI\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\UDARA VIMUKTHI\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\UDARA VIMUKTHI\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\UDARA VIMUKTHI\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\UDARA VIMUKTHI\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\UDARA VIMUKTHI\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\UDARA VIMUKTHI\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
